@@ -1,2 +1,5 @@
-# 这里只填写明确允许公开使用的免费节点订阅来源
-# 每行一个订阅地址
+https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub
+https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
